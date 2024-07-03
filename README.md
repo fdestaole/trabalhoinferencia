@@ -21,3 +21,8 @@ Teste de hipótese sobre a média do tempo de demora de atendimento de um call c
 
 
 Os dados foram criados artificialmente e disponibilizados na pasta Gerador de Dados.
+
+## Link do vídeo
+
+
+https://youtu.be/rWffUBg24HA?si=ehhqOvU2uvGxlAdS
