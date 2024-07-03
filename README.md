@@ -28,13 +28,13 @@ Os dados foram criados artificialmente e disponibilizados na pasta Gerador de Da
 https://youtu.be/rWffUBg24HA?si=ehhqOvU2uvGxlAdS
 
 
-## Link do github
-
-
-https://github.com/fdestaole/trabalhoinferencia
-
-
 ## Link do formulário
 
 
 https://forms.gle/986X89fcrt4KGnXj9
+
+
+## Link do github
+
+
+https://github.com/fdestaole/trabalhoinferencia
