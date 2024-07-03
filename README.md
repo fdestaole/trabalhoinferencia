@@ -26,3 +26,9 @@ Os dados foram criados artificialmente e disponibilizados na pasta Gerador de Da
 
 
 https://youtu.be/rWffUBg24HA?si=ehhqOvU2uvGxlAdS
+
+
+## Link do github
+
+
+https://github.com/fdestaole/trabalhoinferencia
