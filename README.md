@@ -32,3 +32,9 @@ https://youtu.be/rWffUBg24HA?si=ehhqOvU2uvGxlAdS
 
 
 https://github.com/fdestaole/trabalhoinferencia
+
+
+## Link do formulário
+
+
+https://forms.gle/986X89fcrt4KGnXj9
